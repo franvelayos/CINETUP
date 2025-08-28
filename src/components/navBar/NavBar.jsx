@@ -9,7 +9,7 @@ const NavBar = () => {
                     
                     <a class="navbar-brand" href="#">
                         <img src="../../src/assets/images/TUPBOLOGO.png" alt="" width="95" height="auto" class="d-inline-block align-text-top"/>
-                        <h2>CINETU</h2>
+                        <h2>CINETUP GOLOSO</h2>
                     </a>
                 </div>
             </nav>
