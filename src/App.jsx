@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    
+    <h2>trani, naranja trani</h2>
     <NavBar></NavBar>
     </>
   )
